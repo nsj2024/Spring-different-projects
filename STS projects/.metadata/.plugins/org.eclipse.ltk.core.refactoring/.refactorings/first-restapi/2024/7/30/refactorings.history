@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Greet.java&apos; to &apos;First-api1/src/main/java/com.iiht.rest1&apos;&#x0D;&#x0A;- Original project: &apos;first-restapi&apos;&#x0D;&#x0A;- Destination element: &apos;First-api1/src/main/java/com.iiht.rest1&apos;&#x0D;&#x0A;- Original element: &apos;com.iiht.rest.Greet.java&apos;" description="Copy compilation unit" destination="=First-api1/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.iiht.rest1" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.iiht.rest{Greet.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1721629340151" units="1" version="1.0"/>
+</session>

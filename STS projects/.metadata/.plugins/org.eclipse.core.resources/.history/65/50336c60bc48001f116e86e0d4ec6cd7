@@ -1,0 +1,23 @@
+package com.iiht.RestJpa.entity;
+
+
+
+import jakarta.persistence.Id;
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data
+@NoArgsConstructor
+@AllArgsConstructor
+
+public class Product {
+	
+	
+	@Id
+	private long productId;
+	private String description;
+	private double price;
+	
+
+}

@@ -1,0 +1,13 @@
+package com.ust.resl4jClient;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class HelloserviceResl4jClient1Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(HelloserviceResl4jClient1Application.class, args);
+	}
+
+}

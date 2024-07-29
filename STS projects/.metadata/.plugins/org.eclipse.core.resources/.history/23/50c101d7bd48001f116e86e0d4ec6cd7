@@ -1,0 +1,17 @@
+package com.iiht.RestJpa.service;
+
+import org.springframework.stereotype.Service;
+
+import com.iiht.RestJpa.entity.Product;
+import com.iiht.RestJpa.repository.ProductRepository;
+
+@Service
+public class ProductService {
+	
+	public   ProductRepository repository ;
+	
+	public Product save(Product product)
+	{
+		return repository.save(product);
+
+}

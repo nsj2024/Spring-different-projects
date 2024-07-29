@@ -1,0 +1,4 @@
+CREATE TABLE PRODUCT
+(productId INT PRIMARY KEY, 
+description VARCHAR(50),
+price DOUBLE);

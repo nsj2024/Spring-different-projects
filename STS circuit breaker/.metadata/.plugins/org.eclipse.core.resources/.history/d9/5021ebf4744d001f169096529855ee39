@@ -1,0 +1,5 @@
+package com.ust.resl4jClient;
+
+public class HelloClientResource {
+
+}

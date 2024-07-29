@@ -1,0 +1,5 @@
+package com.iiht.RestJpa.entity;
+
+public class Product {
+
+}

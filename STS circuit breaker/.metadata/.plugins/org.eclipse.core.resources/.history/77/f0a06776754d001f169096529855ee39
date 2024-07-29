@@ -1,0 +1,11 @@
+package com.ust.resl4jClient;
+
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+@RequestMapping("/api/client")
+public class HelloClientResource {
+	
+	
+
+}

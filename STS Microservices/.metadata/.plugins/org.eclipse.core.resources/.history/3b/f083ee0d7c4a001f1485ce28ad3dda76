@@ -1,0 +1,5 @@
+package com.iiht.FeignProductService.service;
+
+public class ProductServiceImpl {
+
+}

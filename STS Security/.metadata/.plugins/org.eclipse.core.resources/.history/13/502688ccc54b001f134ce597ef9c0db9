@@ -1,0 +1,10 @@
+package com.iiht.bs.model;
+
+
+
+public class AdminDetails {
+	
+	private String user_admin;
+	private String pass_admin;
+
+}

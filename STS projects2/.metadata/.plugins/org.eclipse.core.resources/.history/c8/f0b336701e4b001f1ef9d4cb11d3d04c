@@ -1,0 +1,7 @@
+instance:
+    hostname: localhost
+    instance-id: "${spring.application.name} : ${instanceId : ${random.value}}"
+       
+       
+       
+       this is key configuration for creating multiple instances on Eureka server

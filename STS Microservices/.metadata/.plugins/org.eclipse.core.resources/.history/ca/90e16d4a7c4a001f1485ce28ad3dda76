@@ -1,0 +1,5 @@
+package com.iiht.FeignProductService.resources;
+
+public class ProductController {
+
+}

@@ -1,0 +1,11 @@
+package com.iiht.RestJpa.repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import com.iiht.RestJpa.entity.Product;
+
+public interface MyJpaRepository extends JpaRepository<Product, Long> {
+	
+	
+
+}

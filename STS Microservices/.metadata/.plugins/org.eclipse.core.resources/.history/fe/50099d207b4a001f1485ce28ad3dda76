@@ -1,0 +1,9 @@
+package com.iiht.FeignProductService.service;
+
+public interface ProductService {
+	
+	
+	List<Product> findAll();
+	List<Product> findBycategory(String category);
+	Product findById(int id);
+}
