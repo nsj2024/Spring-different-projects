@@ -1,5 +1,0 @@
-package com.iiht.RestJpa.repository;
-
-public interface MyJpaRepository {
-
-}

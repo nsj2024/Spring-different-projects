@@ -1,5 +1,0 @@
-package com.iiht.RestJpa.resources;
-
-public class ProductController {
-
-}

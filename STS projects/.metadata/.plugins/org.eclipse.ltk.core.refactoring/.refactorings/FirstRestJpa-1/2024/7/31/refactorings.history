@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Dockerfile&apos; to &apos;First-api1&apos;&#x0D;&#x0A;- Original project: &apos;FirstRestJpa-1&apos;&#x0D;&#x0A;- Destination element: &apos;First-api1&apos;&#x0D;&#x0A;- Original element: &apos;Dockerfile&apos;" description="Copy file" element1="Dockerfile" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1722326796009" target="/First-api1" units="0" version="1.0"/>
+</session>

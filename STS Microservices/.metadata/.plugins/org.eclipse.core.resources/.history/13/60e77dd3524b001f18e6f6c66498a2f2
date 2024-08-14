@@ -1,5 +1,0 @@
-{"properties": [{
-  "name": "resilence4j.circuitbreaker.instances.client-service.register-health-indicator",
-  "type": "java.lang.String",
-  "description": "A description for 'resilence4j.circuitbreaker.instances.client-service.register-health-indicator'"
-}]}

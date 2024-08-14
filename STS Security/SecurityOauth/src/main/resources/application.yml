@@ -1,0 +1,15 @@
+spring:
+   application:
+      name: SecurityOauth
+
+server:
+   port: 9090
+
+security:
+   oauth2:
+     client:
+        registration:
+           google:
+                clientId: 211983014314-stakgc04r3h7gf9rn19rrk7smfm3gg05.apps.googleusercontent.com
+                clientsecretId: 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
+     
